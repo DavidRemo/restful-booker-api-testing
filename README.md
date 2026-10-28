@@ -64,4 +64,4 @@ Do it all in one go. The practice server resets periodically, so bookings and to
 ## Contact
 
 David Remo, Nairobi, Kenya
-LinkedIn: www.linkedin.com/in/david-remo/
+[LinkedIn](https://www.linkedin.com/in/david-remo/)
