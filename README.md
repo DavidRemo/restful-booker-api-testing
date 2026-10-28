@@ -63,5 +63,5 @@ Do it all in one go. The practice server resets periodically, so bookings and to
 
 ## Contact
 
-David Nyokabi, Nairobi, Kenya
-LinkedIn: _add your link here_
+David Remo, Nairobi, Kenya
+LinkedIn: www.linkedin.com/in/david-remo/
