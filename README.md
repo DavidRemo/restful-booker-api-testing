@@ -83,5 +83,5 @@ No manual token or ID copying is needed. The practice server can be slow when it
 
 ## Contact
 
-David Nyokabi, Nairobi, Kenya
-LinkedIn: _add your link here_
+David Remo, Nairobi, Kenya
+[LinkedIn](https://www.linkedin.com/in/david-remo/)
